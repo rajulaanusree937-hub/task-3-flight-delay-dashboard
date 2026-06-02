@@ -27,7 +27,14 @@ Flight Data 2024
 * Monthly Flight Trends
 * Interactive Filters
 
+## Power BI Dashboard File
+
+Power BI (.pbix) file:
+
+https://drive.google.com/file/d/10pLVJZmMpOGoZAkScVWpTMfcExUVHXR5/view?usp=drive_link
+
 ## Outcome
 
 A fully functional interactive dashboard was developed for flight delay analysis and data visualization.
+
 
